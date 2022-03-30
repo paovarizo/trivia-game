@@ -17,7 +17,7 @@ const Present =()=>{
             <div className={styles.elias_gif_container}>
                 <img src='/elias.gif' className={styles.elias_gif}/>
             </div>
-            <p className={styles.explanation_2}> Todo se llevará a cabo el dia <strong>Sábado 9 de abril del 2022 a las 10 am</strong></p>
+            <p className={styles.explanation_2}> Todo se llevará a cabo el dia <strong>Sábado 2 de abril del 2022 a las 10 am</strong></p>
             <p className={styles.explanation_2}>Solo debes llevar:</p>
             <ul className={styles.explanation_list}>
                 <li>
