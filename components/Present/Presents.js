@@ -27,6 +27,9 @@ const Present =()=>{
                     Ropa comoda
                 </li>
                 <li>
+                    Lentes de sol
+                </li>
+                <li>
                     ¡Mucha actitud!
                 </li>
             </ul>
