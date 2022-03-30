@@ -1,0 +1,50 @@
+@import '../../styles/base';
+
+.present_container{
+    font-family: "Karla";
+    height: 100vh;
+    background: white;
+    position: absolute;
+}
+.explanation_title{
+    margin-top: 50px;
+    font-size: 30px;
+    color: $color-secondary-teal;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.explanation_1{
+    margin-left: 50px;
+    margin-right: 50px;
+    color: $color-secondary-teal;
+    strong{
+        span{
+            color: red;
+        }
+    }
+}
+.explanation_2{
+    margin-left: 50px;
+    margin-right: 50px;
+    color: $color-secondary-teal;
+}
+.explanation_list{
+    margin-left: 50px;
+    margin-right: 50px;
+    color: $color-secondary-teal;
+}
+.elias_gif_container{
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: center;
+}
+.elias_gif{
+    width: 275px;
+}
+.paola{
+    margin-left: 50px;
+    margin-right: 50px;
+    color: mediumpurple;
+    font-weight: bolder;
+}

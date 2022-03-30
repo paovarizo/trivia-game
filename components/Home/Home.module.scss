@@ -1,0 +1,47 @@
+@import '../../styles/base';
+
+.title{
+    font-family: $font-primary;
+    color: $color-secondary-teal;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 35px;
+}
+
+.img_icon{
+    width: 300px;
+}
+.img_container{
+    display: flex;
+    justify-content: center;
+}
+.input_container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.input_name{
+    width: 220px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    font-family: $font-primary;
+    color: $color-secondary-teal;
+    background-color: white;
+    padding: 15px;
+    font-weight: bolder;
+}
+.button_container{
+    display: flex;
+    justify-content: center;
+}
+.button_play{
+    width: 220px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    font-family: $font-primary;
+    color: white;
+    background-color: $color-secondary-teal;
+    font-weight: bolder;
+}
